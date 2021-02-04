@@ -2,3 +2,4 @@
 
 # Resourceful
 ### A fast, modern and cool Multiplatform Resource Monitor.
+#### Built with Electron & NodeJS.

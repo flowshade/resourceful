@@ -6,15 +6,15 @@
 [![GitHub license](https://img.shields.io/github/license/oneraze/resourceful?color=blue&label=Open%20Source&style=for-the-badge)](https://github.com/oneraze/resourceful/blob/main/LICENSE)
 ---
 
-## Contribute
+## ***Contribute***
 There are multiple ways to contribute to this open source project.
 
-### Find Bugs / Issues
+### ***Find Bugs / Issues***
 *Put your issues in the "Issues" tab.*
 
 Help us make the product better!
 
 ---
 
-## License
+## ***License***
 [![GitHub license](https://img.shields.io/github/license/oneraze/resourceful?color=blue&label=Open%20Source&style=for-the-badge)](https://github.com/oneraze/resourceful/blob/main/LICENSE)

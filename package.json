@@ -1,0 +1,25 @@
+{
+  "name": "resourceful",
+  "version": "1.0.0",
+  "description": "A fast, modern and cool Multiplatform Resource Monitor.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"NPM Test Command doesn't exist blo!\" && exit 1",
+    "dev-app": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneraze/resourceful.git"
+  },
+  "keywords": [],
+  "author": "Oneraze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oneraze/resourceful/issues"
+  },
+  "homepage": "https://github.com/oneraze/resourceful#readme",
+  "dependencies": {
+    "electron": "^11.2.2",
+    "express": "^4.17.1"
+  }
+}

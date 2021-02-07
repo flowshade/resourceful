@@ -2,7 +2,7 @@
 
 # Resourceful
 ### A fast, modern and cool Multiplatform Resource Monitor.
-#### Built with Electron & NodeJS!
+#### Built with Electron, NodeJS, [Grayshift](https://github.com/yanchokraev/grayshift), [Os-Utils](https://github.com/oscmejia/os-utils), and [Chart.js](https://github.com/chartjs/Chart.js).
 [![GitHub license](https://img.shields.io/github/license/oneraze/resourceful?color=blue&label=Open%20Source&style=for-the-badge)](https://github.com/oneraze/resourceful/blob/main/LICENSE)
 ---
 

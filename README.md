@@ -4,7 +4,7 @@
 ### A fast, modern and cool multiplatform Resource Monitor.
 #### Built with NodeJS (Electron)
 [![GitHub license](https://img.shields.io/github/license/oneraze/resourceful?color=blue&label=Open%20Source&style=for-the-badge)](https://github.com/oneraze/resourceful/blob/main/LICENSE)
-<img src="./assets/resourceful_marketing.png" draggable="false"/>
+<img src="./assets/Resourceful%20Marketing.png" draggable="false"/>
 ---
 
 ## ***Contribute***
